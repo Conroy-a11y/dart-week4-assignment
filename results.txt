@@ -1,0 +1,8 @@
+====================
+Input: I love to programme
+Uppercase: I LOVE TO PROGRAMME
+Lowercase: i love to programme
+Reversed: emmargorp ot evol I
+Concatenated: I love to programme 🔥 Dart is awesome!
+Timestamp: 2025-10-22 10:12:33.426185
+====================
